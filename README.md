@@ -42,4 +42,4 @@ I am a recent Computer Science Engineering graduate with a passion for technolog
 - [Email](mailto:mangalikarthik@example.com)
 
 RESUME LINK :
-https://drive.google.com/drive/u/0/folders/1a3-tLkiINnFPhwk4VIDXmNfdC1bCrHYj
+https://drive.google.com/drive/folders/1a3-tLkiINnFPhwk4VIDXmNfdC1bCrHYj?role=writer
